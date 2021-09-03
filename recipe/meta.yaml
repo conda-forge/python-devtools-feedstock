@@ -1,6 +1,6 @@
 {% set condaforge_name = "python-devtools" %}
 {% set pypi_name = "devtools" %}
-{% set version = "0.6.1" %}
+{% set version = "0.7.0" %}
 
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ pypi_name[0] }}/{{ pypi_name }}/devtools-{{ version }}.tar.gz
-  sha256: a054307594d35d28fae8df7629967363e851ae0ac7b2152640a8a401c39d42d7
+  sha256: 41f34f1dccf302ce0a96567c3af0720451e6c9eb89bddc64ac07e1136dd595a0
 
 build:
   number: 0
