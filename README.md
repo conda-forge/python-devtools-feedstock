@@ -1,11 +1,11 @@
-About python-devtools
-=====================
+About python-devtools-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-devtools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/samuelcolvin/python-devtools
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-devtools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python's missing debug print command and other development tools.
 
